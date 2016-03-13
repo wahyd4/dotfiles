@@ -93,16 +93,21 @@ brew install p7zip
 brew install pigz
 brew install pv
 brew install rename
-brew install rhino
+# brew install rhino
 brew install speedtest_cli
 brew install ssh-copy-id
 brew install testssl
 brew install tree
-brew install webkit2png
-brew install zopfli
+# brew install webkit2png
+# brew install zopfli
 
 # Add by junv
 brew install htop 
-brew install gitextras
+brew install git-extras
+brew install redis
+brew install mongodb26
+brew install memcached
+brew install brew-cask
+brew install tig
 # Remove outdated versions from the cellar.
 brew cleanup
